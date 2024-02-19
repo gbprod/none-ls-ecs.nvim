@@ -11,6 +11,9 @@ return h.make_builtin({
   },
   method = FORMATTING,
   filetypes = { "php" },
+  condition = function(utils)
+    return utils.root_has_file("ecs.php")
+  end,
   generator_opts = {
     command = "ecs",
     args = {
