@@ -1,6 +1,6 @@
 # none-ls-ecs.nvim
 
-This plugin for [none-ls.nvim](https://github.com/nvimtools/none-ls.nvim) allows to use PHP
+This plugin is a source for [none-ls.nvim](https://github.com/nvimtools/none-ls.nvim) allows to use PHP
 [Easy coding standard](https://github.com/easy-coding-standard/easy-coding-standard) formatter in Neovim
 with none-ls.nvim.
 
